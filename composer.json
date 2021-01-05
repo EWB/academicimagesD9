@@ -18,10 +18,12 @@
         "composer/installers": "^1.9",
         "drupal/asset_injector": "^2.7",
         "drupal/bfd": "^2.54",
+        "drupal/bootstrap4": "^2.1",
         "drupal/core-composer-scaffold": "^9.1",
         "drupal/core-project-message": "^9.1",
         "drupal/core-recommended": "^9.1",
-        "drupal/core-vendor-hardening": "^9.1"
+        "drupal/core-vendor-hardening": "^9.1",
+        "drush/drush": "^10.3"
     },
     "conflict": {
         "drupal/drupal": "*"
